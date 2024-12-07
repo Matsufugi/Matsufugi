@@ -4,7 +4,7 @@
 **Graduating in systems analysis and development** at Unisanta University of Santos
 <br>
 
-**Student** at Alura - Java QA Javascript
+**Student** at Alura - Java | QA | Javascript | Spring Boot | SQL | HTML | CSS
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-d-santos-89086b327/)
 
