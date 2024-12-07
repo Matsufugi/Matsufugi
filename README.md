@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Matheus A. D. Santos </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Matheus A. D. S. </h1>
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl3Z3Mxang0bzRkZDdyN3k3N3F2d24weGJ3cm1icDQzdWVqbGF5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="230">
 
 **Graduating in systems analysis and development** at Unisanta University of Santos
