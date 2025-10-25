@@ -13,7 +13,7 @@
 
 <ul>
   <li>🧑‍💻 Desenvolvedor Java, morando em <b>Santos - SP, Brasil</b>;</li>
-  <li>🚀 Apaixonado por tecnologia e sempre em busca de aprender mais sobre desenvolvimento backend;</li>
+  <li>🚀 Apaixonado por tecnologia e sempre em busca de aprender mais sobre desenvolvimento backend e testes automatizados;</li>
   <li>💾 Estudando as principais tecnologias do ecossistema Java e boas práticas de código limpo;</li>
   <li>🎮 Amante de jogos (Nintendo, PlayStation e PC);</li>
   <li>🤝 Em constante evolução e aberto a novos desafios profissionais.</li>
