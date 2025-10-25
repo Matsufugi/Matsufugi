@@ -1,29 +1,26 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Matheus A. D.</h1>
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl3Z3Mxang0bzRkZDdyN3k3N3F2d24weGJ3cm1icDQzdWVqbGF5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="230">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdnZTR3ZmZ0YzFqdTdxZG4wdmkxZXcydmxhOTl4cnZjYzU1dXZydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaDsH4FpMBnqdK8J0g/giphy.webp" width="230">
 
-**Graduating in Systems Analysis and Development** at Unisanta - University of Santos.
+
+Estudante Análise e Desenvolvimento de Sistemas na Unisanta - Santos, SP
 <br>
 
-**Student** at Alura - Java | QA | Javascript | Spring Boot | SQL | HTML | CSS
-<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-d-santos-89086b327/)
+[![GitHub Badge](https://img.shields.io/badge/-Matsufugi-black?style=flat&logo=github&logoColor=white)](https://github.com/Matsufugi/)
 
 
-## 🛠 My characteristics
 
-<br>
-  <ul>
-    <li>🧑‍💻 I'm a Java Developer from <b>Santos - SP, Brazil</b>;</li>
-    <li>💾 I'm studying Java and Javascript stack, my skills are: Spring, OOP, SQL, HTML, CSS;</li>
-    <li>📖 I'm currently studying QA JAVA and SQL</li>
-    <li>🥰 I love to play video games (Nintendo, PS and PC);</li>
-    <li>🤝 Open for new opportunities.</li>
-  </ul>
-<br>
+## 🧠 Sobre mim
 
-<br>
+<ul>
+  <li>🧑‍💻 Desenvolvedor Java, morando em <b>Santos - SP, Brasil</b>;</li>
+  <li>🚀 Apaixonado por tecnologia e sempre em busca de aprender mais sobre desenvolvimento backend;</li>
+  <li>💾 Estudando as principais tecnologias do ecossistema Java e boas práticas de código limpo;</li>
+  <li>🎮 Amante de jogos (Nintendo, PlayStation e PC);</li>
+  <li>🤝 Em constante evolução e aberto a novos desafios profissionais.</li>
+</ul>
 
-<h3 align="left">Language and tools I'm studying:</h3>
+<h3 align="left">Minha stack atual:</h3>
 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="sass" width="40" height="40"/>
