@@ -1,15 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> 
-  Bem-vindo :alien: Pode me chamar de Matheus Alves 
-</h1>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdnZTR3ZmZ0YzFqdTdxZG4wdmkxZXcydmxhOTl4cnZjYzU1dXZydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaDsH4FpMBnqdK8J0g/giphy.webp" width="230">
+<h1> Bem-vindo :alien: Pode me chamar de Matheus Alves </h1>
+<h3> Um cara apaixonado por desenvolvimento backend </h3>
+
 
 <p>Atualmente estou morando no planeta terra e vivendo como Estudante Análise e Desenvolvimento de Sistemas na Unisanta - Santos, SP</p>
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-d-santos-89086b327/)
 [![GitHub Badge](https://img.shields.io/badge/-Matsufugi-black?style=flat&logo=github&logoColor=white)](https://github.com/Matsufugi/)
 
-
+<img align='right' src="https://miro.medium.com/v2/resize:fit:960/0*M5pvGrn1-YCdwCAR.gif" width="230">
 
 ## 🧠 Sobre mim
 
